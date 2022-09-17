@@ -39,17 +39,8 @@
   <a href="https://github.com/BarlasTR" target="blank"><img align="center" 
      src="https://img.shields.io/github/followers/BarlasTR?color=dark%20blue&label=Github%20Followers&logo=github&logoColor=white&style=for-the-badge"
      alt="spying counter" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://img.shields.io/github/watchers/BarlasTR/BARLASTR?color=dark%20blue&label=GITHUB%20Watcher&logo=github&logoColor=white&style=for-the-badge
-"
-     alt="account age" /></a>
   </p>
-  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/BarlasTR/BarlasTR?style=for-the-badge&color=dark%20blue&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
-
- </p>
+ 
 </div>
 
 -----------
