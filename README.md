@@ -5,7 +5,7 @@
 Ben bir yazılım geliştiricisiyim ve Python, JavaScript gibi dillerde projeler geliştirmeyi seviyorum. Teknolojiye olan ilgim, her geçen gün daha da büyüyor ve kendimi yazılım geliştirme dünyasında daha fazla keşfetmek istiyorum. 
 
 👯 **Projelere Katkı Sağlıyorum**  
-- Açık kaynak projelerine katkı sağlıyorum. [GitHub profilindeki açık kaynak projelerine katkıda bulunduğun projeleri ekleyebilirsin.]
+- Açık kaynak projelerine katkı sağlıyorum. 
 
 📫 **Bana Ulaşın**  
 - E-posta: [alicancnrk@gmail.com]
@@ -24,5 +24,5 @@ Ben bir yazılım geliştiricisiyim ve Python, JavaScript gibi dillerde projeler
 
 ## 📈 GitHub İstatistiklerim
 
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=KullanıcıAdınız&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=BarlasTR&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
