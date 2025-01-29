@@ -1,48 +1,28 @@
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Barlas</h1>
-<h4 align="center">I am a freelance developer and I write game scripts.
-</h4>
-</div>
 
-<div align="center">
-  <a href="https://discord.gg/F6F7KgK">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+# Merhaba, Ben [Barlas]! 👋
 
--------------
+🔭 **Hakkımda**  
+Ben bir yazılım geliştiricisiyim ve Python, JavaScript gibi dillerde projeler geliştirmeyi seviyorum. Teknolojiye olan ilgim, her geçen gün daha da büyüyor ve kendimi yazılım geliştirme dünyasında daha fazla keşfetmek istiyorum. 
 
-<div>
-  <samp>
-    <h2 align="center">☎️ Contact Me ☎️</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.youtube.com/channel/UCSnrIzDlBbRcqYzb4NNMuiQ" target="blank"><img align="center"
-         src="https://i.hizliresim.com/86eou13.png"
-         alt="Barlas"  height="60"/></a>
-      <a href="https://discord.gg/F6F7KgK" target="blank"><img align="center"
-         src="https://i.hizliresim.com/7xtetvt.png"
-         alt="Barlas" height="60"/></a>
-      <a href="https://github.com/BarlasTR" target="blank"><img align="center"
-         src="https://i.hizliresim.com/3reoz4f.png"
-         alt="Barlas" height="60"/></a>
-    </p>
-  </samp>
-</div>
+👯 **Projelere Katkı Sağlıyorum**  
+- Açık kaynak projelerine katkı sağlıyorum. [GitHub profilindeki açık kaynak projelerine katkıda bulunduğun projeleri ekleyebilirsin.]
 
+📫 **Bana Ulaşın**  
+- E-posta: [alicancnrk@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/alican-çınarkuyu-674588341/]
+  
+## 🛠️ Teknolojiler ve Araçlar
 
-----------------------
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=yellow" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
 
-<div>
-<h2 align="center">🧮 About this Account 🧮</h2>
- <p align="center">
-  <a href="https://github.com/BarlasTR" target="blank"><img align="center" 
-     src="https://img.shields.io/github/followers/BarlasTR?color=dark%20blue&label=Github%20Followers&logo=github&logoColor=white&style=for-the-badge"
-     alt="spying counter" /></a>
-  </p>
- 
-</div>
+## 🎯 Çalışma Alanlarım
 
------------
+- Web Geliştirme (Frontend & Backend)
+- Veri Bilimi ve Makine Öğrenimi
+- Otomasyon ve Yazılım Araçları Geliştirme
+- Açık Kaynak Projeler ve Topluluk Katkıları
 
+## 📈 GitHub İstatistiklerim
+
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=KullanıcıAdınız&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
