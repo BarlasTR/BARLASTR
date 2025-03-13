@@ -23,20 +23,12 @@ Ağ altyapıları, log analizi, sistem performans izleme ve güvenlik çözümle
 
 ## 📩 Bana Ulaşın  
 📧 **E-posta**: [alicancnrk@gmail.com](mailto:alicancnrk@gmail.com)  
-🔗 **LinkedIn**: [LinkedIn Profilim](https://www.linkedin.com/in/alicancnrk)  
+🔗 **LinkedIn**: [LinkedIn Profilim](https://www.linkedin.com/in/alican-çınarkuyu-674588341/)  
 
 ---
 
 ## ⚡ Teknolojiler ve Araçlar  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![Zabbix](https://img.shields.io/badge/-Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)  
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Zabbix](https://img.shields.io/badge/-Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)  
 
 ---
 
