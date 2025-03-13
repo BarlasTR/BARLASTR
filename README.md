@@ -1,4 +1,4 @@
-# Merhaba, Ben [Barlas]! 👋  
+# Merhaba, Ben [Alican Çınarkuyu - Barlas]! 👋  
 
 ## 🛠 Hakkımda  
 Merhaba! Ben bir **NOC Mühendisi ve Yazılım Geliştiriciyim**.  
